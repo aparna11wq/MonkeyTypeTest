@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mainString {
+  color: black;
+}
+
+.greenFont {
+  color: green;
+}
+
+.redFont {
+  color: red;
+}
+
+mark {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+
+.inputBox {
+  margin: 20px;
+}
+
+.errorCount {
+  margin: 10px;
+}
